@@ -824,7 +824,7 @@ header nav .form i {
 .quote {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(/Images/Quote.jpg);
+    background-image: url(../Images/Quote.jpg);
     background-size: cover;
     position: relative;
     text-align: center;
@@ -1162,7 +1162,7 @@ header nav .form i {
 .site-footer {
     padding-top: calc(var(--section-padding)/2);
     padding-bottom: calc(var(--section-padding)/2);
-    background-image: url(../Images/Footer.jpg);
+    background-image: url(../Images/footer.jpg);
     background-size: cover;
     position: relative;
     color: white;
