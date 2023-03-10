@@ -824,7 +824,7 @@ header nav .form i {
 .quote {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(/Images/Quote.jpg);
+    background-image: url(../Images/Quote.jpg);
     background-size: cover;
     position: relative;
     text-align: center;
